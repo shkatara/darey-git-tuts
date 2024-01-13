@@ -1,1 +1,2 @@
 This is a new project that will use GenAI to read and inspect images
+This content is now coming from newfeature branch
