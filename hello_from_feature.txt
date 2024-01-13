@@ -1,0 +1,1 @@
+i want to add a feature that sends email to user about the analyzed results
